@@ -10,6 +10,12 @@ Engineering leader with 15+ years building software and the systems that make te
 - **Infrastructure** — CI/CD, observability, and the unglamorous work of keeping things reliable.
 - **Architecture** — trade-offs over dogma, simplicity over cleverness, fast feedback loops over big-bang releases.
 
+### Specialization: Blockchain & Web3
+
+- **Decentralized Applications (dApps)** — designing and deploying secure, scalable applications on EVM-compatible chains.
+- **Smart Contracts** — building robust, audited logic for DeFi and governance protocols.
+- **Protocol Engineering** — deep understanding of blockchain fundamentals, from consensus mechanisms to Layer 2 scaling solutions.
+
 ## How I think about engineering
 
 - **Code is a liability.** The best line of code is often the one you don't write.
@@ -20,7 +26,7 @@ Engineering leader with 15+ years building software and the systems that make te
 
 ## Currently exploring
 
-- Agentic workflows and AI-augmented development tools
+- Agentic workflows, AI-augmented development, and the future of decentralized finance (DeFi).
 - Edge runtimes and the evolving frontend/backend boundary
 - Platform engineering and developer experience as a product
 - Modern type systems and the move toward end-to-end safety
