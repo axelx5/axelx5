@@ -1,6 +1,6 @@
 # Hi, I'm Axel 👋
 
-Head of Engineering based in Argentina, passionate about building software and the systems that make teams productive.
+Engineering leader with 15+ years building software and the systems that make teams productive, based in Argentina. I'm always open to interesting IC and staff/principal roles where I can keep my hands close to the code.
 
 ## What I work with
 
