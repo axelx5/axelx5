@@ -1,22 +1,34 @@
 # Hi, I'm Axel 👋
 
-Engineering leader with 15+ years building software and the systems that make teams productive, based in Argentina. I'm always open to interesting IC and staff/principal roles where I can keep my hands close to the code.
+**Engineering Leader | 15+ Years Exp | Software Architecture & AI Systems**
 
-## What I work with
+Engineering leader with 15+ years building software and the systems that make teams productive, based in Argentina 🇦🇷. I'm always open to interesting IC and staff/principal roles where I can keep my hands close to the code, design resilient architectures, and orchestrate intelligent workflows.
 
-- **Languages** — primarily working across modern, statically-typed ecosystems, with a soft spot for pragmatic scripting when the problem calls for it.
-- **Backend** — designing distributed systems, APIs, and services that stay maintainable as they grow.
-- **Frontend** — shipping interfaces that respect users' time and attention.
-- **Infrastructure** — CI/CD, observability, and the unglamorous work of keeping things reliable.
-- **Architecture** — trade-offs over dogma, simplicity over cleverness, fast feedback loops over big-bang releases.
+<p align="left">
+  <a href="https://github.com/axelx5"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/arroyoaxel/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/axelx5"><img src="https://img.shields.io/badge/X_Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="X/Twitter" /></a>
+</p>
 
-### Specialization: Blockchain & Web3
+## 🛠️ What I work with
 
-- **Decentralized Applications (dApps)** — designing and deploying secure, scalable applications on EVM-compatible chains.
-- **Smart Contracts** — building robust, audited logic for DeFi and governance protocols.
-- **Protocol Engineering** — deep understanding of blockchain fundamentals, from consensus mechanisms to Layer 2 scaling solutions.
+While I focus on trade-offs and architecture over specific syntax, here is the core stack I leverage to build scalable systems:
 
-## How I think about engineering
+* **Languages & Ecosystems:** 
+  ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) 
+  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) 
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) 
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+* **Backend & Infrastructure:** Designing distributed systems, event-driven architectures, CI/CD pipelines, and robust observability.
+* **Architecture Philosophy:** Pragmatic design, evolutionary architecture, simplicity over cleverness, and fast feedback loops.
+
+### 📐 Core Expertise
+
+- **Software Architecture & Distributed Systems:** Designing microservices, high-throughput APIs, and data pipelines that stay maintainable as the organization and traffic scale.
+- **AI & Agentic Workflows:** Orchestrating autonomous AI agents, integrating LLMs into production systems, and building context-aware automation patterns.
+- **Polyglot Engineering:** Leveraging the right tool for the job—whether it's the raw performance of Go, the enterprise reliability of Java, or the rapid AI prototyping capabilities of Python and TypeScript.
+
+## 🧠 How I think about engineering
 
 - **Code is a liability.** The best line of code is often the one you don't write.
 - **Feedback loops win.** Short cycles — in tests, in deploys, in design reviews — beat long ones, every time.
@@ -24,17 +36,17 @@ Engineering leader with 15+ years building software and the systems that make te
 - **Boring tech, when it fits.** Reach for novel only when proven tech genuinely hurts.
 - **Operational excellence is a feature.** Reliability, performance, and clarity are part of "done."
 
-## Currently exploring
+## 🔭 Currently exploring
 
-- Agentic workflows, AI-augmented development, and the future of decentralized finance (DeFi).
-- Edge runtimes and the evolving frontend/backend boundary
-- Platform engineering and developer experience as a product
-- Modern type systems and the move toward end-to-end safety
+- Multi-agent orchestration frameworks (LangGraph, CrewAI) and AI-augmented developer experience.
+- Advanced patterns in event-driven architectures and data consistency.
+- Edge runtimes and optimizing the boundary between autonomous agents and core services.
 
-## Let's connect
+## 💬 Let's connect
 
-- Reach out via my [GitHub profile](https://github.com/axelx5), [LinkedIn](https://www.linkedin.com/in/arroyoaxel/), or X/Twitter [@axelx5](https://x.com/axelx5).
+If you want to talk about distributed systems, multi-agent architectures, or just exchange engineering trade-offs, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/arroyoaxel/) or X/Twitter [@axelx5](https://x.com/axelx5).
 
 ---
-
-_"Make it work, make it right, make it fast — in that order."_
+<div align="center">
+  <i>"Make it work, make it right, make it fast — in that order."</i>
+</div>
