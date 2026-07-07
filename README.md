@@ -27,7 +27,7 @@ Engineering leader with 15+ years building software and the systems that make te
 
 ## Let's connect
 
-- Reach out via my [GitHub profile](https://github.com/axelx5) or X/Twitter [@axelx5](https://x.com/axelx5).
+- Reach out via my [GitHub profile](https://github.com/axelx5), [LinkedIn](https://www.linkedin.com/in/arroyoaxel/), or X/Twitter [@axelx5](https://x.com/axelx5).
 
 ---
 
